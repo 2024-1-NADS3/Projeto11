@@ -1,31 +1,31 @@
+# Projeto11
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+<a href= ""><img src="https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Treinar.AI
 
-## Nome do Grupo
+## Grupo_11_OrgPay
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/carlos-augusto-1145861a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Carlos Augusto</a>, <a href="https://www.linkedin.com/in/lucas-silva-454018214/">Lucas Silva</a>, <a href="https://www.linkedin.com/in/nicolas-bueno-zagatto-b274451a4/">Nicolas Bueno</a>, <a href="https://br.linkedin.com/in/victor-barcelos-28a6b91b4">Victor Barcelos</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Félix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://lucasexample2.wordpress.com/wp-content/uploads/2024/05/design_sem_nome.png" alt="NOME DO JOGO" border="0">
+  App by Grupo 11
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+O aplicativo Treinar AI é um projeto educacional, que simplifica a criação e organização de treinos para os alunos ingressantes das academias, dessa forma poupando tempo tanto dos alunos, quanto dos profissionais. Com uma interface intuitiva, os usuários podem criar treinos personalizados, adaptados às suas necessidades e objetivos. Uma biblioteca abrangente de exercícios está disponível para orientar a execução correta. 
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Este aplicativo é destinado a qualquer pessoa interessada em frequentar uma academia, é mais indicado para pessoas iniciantes que estão buscando orientação e um treino base, mas também pode ser usado por pessoas experientes ou entusiastas de fitness que procuram uma ferramenta prática e eficiente. Nosso objetivo é facilitar a criação de treinos e educar sobre a importância do planejamento adequado e da execução correta dos exercícios, promovendo um estilo de vida saudável e ativo.
 <br><br>
-May the force be with you!
-<br><br>
+
 
 ## 🛠 Estrutura de pastas
 
@@ -115,7 +115,7 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Trabalho em andamento
 
 ## 📋 Licença/License
-
+Não utilizamos nenhuma licença.
 
 ## 🎓 Referências
 
@@ -123,6 +123,12 @@ Aqui estão as referências usadas no projeto.
 
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+3. <https://www.youtube.com/watch?v=Jp1Qq3M54Rw>
+4. <https://www.youtube.com/watch?v=3fJWcvggN2Y>
+5. <https://pt.wikipedia.org/wiki/Base64>
+6. <https://developer.android.com/guide?hl=pt-br>
+7. <https://vercel.com/docs/functions/runtimes/python>
+8. <https://mateus-dev-me.medium.com/como-criar-uma-api-rest-com-flask-29b6845f1f1c>
+9. <https://www.youtube.com/watch?v=MMrndajDLTc>
+10. <https://www.devmedia.com.br/android-retrofit-primeiros-passos-com-a-retrofit-api/31857>
+11. <https://pymongo.readthedocs.io/en/stable/>
