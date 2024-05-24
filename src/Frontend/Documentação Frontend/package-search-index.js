@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.treinarai"},{"l":"com.example.treinarai.model"},{"l":"com.example.treinarai.retrofitUtil"}];updateSearchResults();
